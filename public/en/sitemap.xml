@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/about-me/</loc>
+    <loc>string/posts/about-me/</loc>
     <lastmod>2023-08-25T13:58:02+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>string/</loc>
     <lastmod>2023-08-25T13:58:02+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/"
+                href="string/cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="string/"
                 />
   </url><url>
-    <loc>/posts/</loc>
+    <loc>string/posts/</loc>
     <lastmod>2023-08-25T13:58:02+08:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>string/categories/</loc>
   </url><url>
-    <loc>/gallery/</loc>
+    <loc>string/gallery/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>string/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>string/tags/</loc>
   </url>
 </urlset>

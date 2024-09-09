@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/cn/frcategories/</loc>
+    <loc>string/cn/frcategories/</loc>
   </url><url>
-    <loc>/cn/frseries/</loc>
+    <loc>string/cn/frseries/</loc>
   </url><url>
-    <loc>/cn/frtags/</loc>
+    <loc>string/cn/frtags/</loc>
   </url><url>
-    <loc>/cn/</loc>
+    <loc>string/cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="string/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="/cn/"
+                href="string/cn/"
                 />
   </url>
 </urlset>
